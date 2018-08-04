@@ -1,0 +1,21 @@
+li.linkler{
+	float: left;
+	list-style: none;
+	margin-right: 10px
+}
+
+a.sosis{
+	color:yellow;
+}
+
+a.sosis2{
+	color:orange;
+}
+
+a.sucuk2{
+	color: blue;
+}
+
+a.sucuk3{
+	color: black;
+}

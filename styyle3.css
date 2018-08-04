@@ -1,0 +1,21 @@
+li.linkler{
+	float: left;
+	margin-left: 20px;
+	list-style: none;
+}
+
+a.salam{
+	color: yellow;
+}
+
+a.salam2{
+	color: red;
+}
+
+a.salatalık{
+	color: blue;
+}
+
+a.salatalık2{
+	color: orange;
+}

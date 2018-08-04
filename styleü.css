@@ -1,0 +1,45 @@
+.alan{
+	background-color: pink;
+	width: 2000px;
+	height: 200px;
+	font-size:20px;
+}
+
+.yenialan{
+	background-color: lightgreen;
+	width: 2000px;
+	height: 200px;
+	font-size: 20px;
+}
+
+h1#baslik{
+	color: green;
+}
+
+h1#baslik2{
+	color: purple;
+}
+
+a.link{
+	color-profile: purple;
+}
+
+a.link2{
+	color:purple;
+}
+
+li.madde{
+ 	color: green;
+ }
+
+
+li.madde1 {
+	color: purple;
+}
+
+p#paragraf{
+	color: purple;
+}
+ 
+
+

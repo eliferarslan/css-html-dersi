@@ -1,0 +1,41 @@
+li.linkler {
+			float: left;
+			list-style: none;
+			margin-right: 10px;
+		}
+
+		a.link {
+			color: green;
+		}
+
+		a.link2 {
+			color: red;
+		}
+
+		a.link3{
+			color: orange;
+		}
+
+		a.denemelink {
+			color: white;
+		}
+
+		a.denemelink2{
+			color:yellow;
+		}
+
+		a.denemelink3{
+			color: blue;
+		}
+
+		a.sosis{
+			color:black;
+		}
+
+		a.sosis2{
+			color:yellow;
+		}
+
+		a.sosis3{
+			color:green;
+		}

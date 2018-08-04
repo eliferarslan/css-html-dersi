@@ -1,0 +1,82 @@
+
+
+
+.alan{
+	background-color: yellow;
+	width:500px;
+	height: 300px;
+	font-size: 20px;
+	color: green;
+	
+}
+
+.yenialan{
+	background-color: red;
+	width:1000px;
+	font-size: 20px;
+	color: pink;
+	overflow: hidden;
+
+}
+
+
+
+h1#baslik{
+	color: brown;
+}
+
+h1#baslik2{
+	color: green;
+}
+
+
+
+a.link1{
+	color: pink;
+}
+
+a.link{
+	color: green;
+}
+
+
+p#paragraf{
+	font-weight: bold;
+}
+
+
+ul#hjk1{
+	color:red;
+	list-style: none;
+}
+
+
+
+
+ul#hjk2{
+	color: pink;
+	list-style: none;
+
+}
+
+
+li.madde{
+	float: left;
+	color: green;
+}
+ 
+li.madde1{
+	color: yellow;
+}
+
+.tabloalani{
+	background-color: pink;
+	color: black;
+	overflow: hidden;
+}
+
+
+
+
+
+

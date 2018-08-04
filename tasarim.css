@@ -1,0 +1,59 @@
+img#logo{
+	
+	margin-top: 5px;
+	margin-top: -30px;
+}
+
+input.yazialani{
+	width: 480px;
+	height: 30px;
+	border: 3px solid purple; /* solid, dotted, dashed */
+	padding-left: 20px;
+	font-size: 20PX;
+	font-weight: 100;
+
+}
+
+button.buton{
+	padding: 5px;
+	color: purple;
+	background-color: lightpink;
+	font-weight: bold;
+	border-radius: 15px;
+}
+
+#kopirayt{
+	background-color: pink;
+	color: purple;
+	text-align: right;
+	padding-right: 20px;
+	margin-top: 35px;
+	padding: 5px;
+	height: 15px;
+
+
+}
+
+#kopirayt2{
+	background-color: pink;
+	color: purple;
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 100px; 
+	padding-top: : 15px;
+	padding-bottom: : 5px;
+	height: 20px;
+
+
+}
+
+body{
+	margin:0px;
+}
+
+
+td.resim{
+	width: 500px;
+	height: 500px;
+}
+
